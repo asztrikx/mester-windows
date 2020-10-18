@@ -11,9 +11,6 @@
 - Kezdő/Programozási tételekː minimum, maximum számítás/45. Autópálya    _-100/minta.zip
 	- be2.txt `missing`
 	- ki2.txt `missing`
-- Kezdő/Programozási tételekː összeépítése/57. Legvölgyesebb sziget ✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 - Kezdő/Programozási tételekː sorozatszámítás/10. Összterület ✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -51,10 +48,10 @@
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Szülők/4. A legtöbb gyerek ✱    _-100/minta.zip
+	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-	- be1.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
@@ -71,20 +68,20 @@
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Szülők/6. Ismeretlen szülők ✱    _-100/minta.zip
+	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-	- be1.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Szülők/7. Közös gyerek ✱    _-100/minta.zip
+	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-	- be1.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
@@ -101,10 +98,10 @@
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Szülők/9. Testvéreim szülei ✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
@@ -131,20 +128,20 @@
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Törzsek/1. Adott századi háborúk    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Törzsek/2. Békés évek ✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
@@ -241,10 +238,10 @@
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Törzsek/13. Egy törzs leghosszabb békés időszaka ✱    _-100/minta.zip
+	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-	- be1.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
@@ -291,10 +288,10 @@
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Törzsek/19. Gyakori háborúk ✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
@@ -311,20 +308,20 @@
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Törzsek/21. Háború együttes ideje adott században ✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Törzsek/22. Háború nélkül ✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
@@ -381,10 +378,10 @@
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Törzsek/28. Legháborgóbb év ✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
@@ -451,10 +448,10 @@
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Törzsek/35. Legrövidebb béke ✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
@@ -481,20 +478,20 @@
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Törzsek/38. Legtöbb ellenfél ✱    _-100/minta.zip
+	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-	- be1.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Törzsek/39. Legtöbb törzs ✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
@@ -531,38 +528,35 @@
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Törzsek/43. Részben adott századi háborúk száma ✱    _-100/minta.zip
+	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-	- be1.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Törzsek/44. Több háború ✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - Középhaladó/Törzsek/45. Több törzs ✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
-- Középhaladó/Madármegfigyelés/1. Ahol a madár se jár ✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 - Középhaladó/Madármegfigyelés/2. Egy átlagosan legkedveltebb helység ✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -621,8 +615,8 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Középhaladó/Madármegfigyelés/21. Mindenhol legalább annyi van az egyikből, mint a másikból？ ✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Középhaladó/Madármegfigyelés/22. Minimális madárfajszámú helység ✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -633,8 +627,8 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Középhaladó/Madármegfigyelés/25. Volt maximális helység？ ✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Középhaladó/Madármegfigyelés/26. Volt maximális madárfaj？ ✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -653,9 +647,9 @@
 	- ki2.txt `missing`
 - Középhaladó/Összetett feladatok `missing`
 - Haladó/Sorozatok/23. Közös árak ✱✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Sorozatok/49. Tolerancia    _-100/minta.zip
 	- ki2.txt `missing`
 - Haladó/Rekurzív adatszerkezetek/25. Kémszervezet ✱✱    _-100/minta.zip
@@ -671,8 +665,8 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Rekurzív adatszerkezetek/50. Titkos társaság alcsoport ✱✱✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Rekurzív adatszerkezetek/57. Banda    _-100/minta.zip
 	- feladat.java `extra`
 - Haladó/Rekurzív adatszerkezetek/66. Szótár    _-100/minta.zip
@@ -681,8 +675,8 @@
 	- be1.txt `missing`
 	- ki1.txt `missing`
 - Haladó/Mohó algoritmusok/54. Csoportképek ✱✱✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Mohó algoritmusok/59. Konténer pakolás ✱✱✱    _-100/minta.zip
 	- be1.txt `missing`
 	- be2.txt `missing`
@@ -716,10 +710,10 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Dinamikus programozás/120. Videójáték    _-100/minta.zip
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- in.1 `extra`
 	- in.6 `extra`
 	- out.1 `extra`
@@ -728,10 +722,10 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Gráfok, körmentes gráfok/6. Folyón átkelés ✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- in0.txt `extra`
 	- in1.txt `extra`
 	- in2.txt `extra`
@@ -772,8 +766,8 @@
 	- out.1 `extra`
 	- out.5 `extra`
 - Haladó/Gráfok, mélységi bejárás/1. Ádám és Éva kirándul    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/2. Biztonsági szolgálat ✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -781,16 +775,16 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/5. Duplán elérhető pontok ✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/6. Elárasztás ✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/7. Elfogó ✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- in.0 `extra`
 	- in.16 `extra`
 	- out.0 `extra`
@@ -810,8 +804,8 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/12. Hálózat hiányzó vonal ✱✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/13. Hálózat kezdőpont ✱✱✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -822,8 +816,8 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/16. Járások ✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/17. Kannák ✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -855,8 +849,8 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/27. Kritikus csomópontok ✱✱✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/28. Kritikus ellenőrző pontok ✱✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -867,10 +861,10 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/31. Legkevesebb végpont ✱✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/33. Mindenhova legyen út ✱✱✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -904,8 +898,8 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/43. Tájékozódási verseny ✱✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/44. Út legfeljebb egy kritikus szakasszal ✱    _-100/minta.zip
 	- be1.txt `missing`
 	- be2.txt `missing`
@@ -916,10 +910,10 @@
 	- in1.txt `extra`
 	- in2.txt `extra`
 - Haladó/Gráfok, mélységi bejárás/45. Út mindenhova két pontból ✱✱✱    _-100/minta.zip
+	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-	- be1.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/46. Utcák egyirányúsítása ✱✱✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -930,8 +924,8 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/50. Ádám és Éva közös kirándulása ✱✱✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/53. Két hivatal ✱✱✱/task.zip `missing`
 - Haladó/Gráfok, mélységi bejárás/57. Félig összefüggő    _-100/minta.zip
 	- linux.txt `extra`
@@ -939,8 +933,8 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Gráfok, legrövidebb utak/3. Futár ✱✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Gráfok, legrövidebb utak/5. Hálózat2 ✱✱    _-100/minta.zip
 	- be1.txt `missing`
 	- be2.txt `missing`
@@ -965,16 +959,16 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Gráfok, legrövidebb utak/17. Vám ✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Gráfok, legrövidebb utak/18. Repülőút menetrenddel ✱✱✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Gráfok, feszítőfák/7. Malmokból szállítás ✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- in.0 `extra`
 	- in1.txt `extra`
 	- in2.txt `extra`
@@ -1032,8 +1026,8 @@
 - Haladó/Számelméleti algoritmusok/45. Páratlan számok    _-100/minta.zip
 	- feladat.java `extra`
 - Haladó/Egyéb feladatok/9. Fenyőfa ✱✱    _-100/minta.zip
-	- ki2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Egyéb feladatok/32. Legrövidebb szakasz ✱✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -1072,19 +1066,19 @@
 	- csavarok.h `extra`
 	- feladat.cpp `extra`
 - NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2019/17. Játék    _-100/minta.zip
+	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-	- be1.txt `missing`
 	- in.1 `extra`
 	- in.6 `extra`
 	- out.1 `extra`
 	- out.6 `extra`
 - CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2005/2. Elektromos kerítés    _-100/minta.zip
+	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-	- be1.txt `missing`
 	- lookup.cpp `extra`
 	- lookup.h `extra`
 	- testgener.exe `extra`
@@ -1125,10 +1119,10 @@
 	- in1.txt `extra`
 	- in2.txt `extra`
 - CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2012/6. Kommunikációs hálózat    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- in1.txt `extra`
 	- in2.txt `extra`
 - CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2015 `missing`
@@ -1164,20 +1158,20 @@
 	- minta/Ki1.txt `extra`
 	- minta/Ki2.txt `extra`
 - CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2017/3. Tükrös felosztások    _-100/minta.zip
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- minta/ `extra`
 	- minta/be1.txt `extra`
 	- minta/be2.txt `extra`
 	- minta/ki1.txt `extra`
 	- minta/ki2.txt `extra`
 - CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2020/1. Kacifántos kerítés    _-100/minta.zip
+	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-	- be1.txt `missing`
 	- input0.txt `extra`
 	- input1.txt `extra`
 	- output0.txt `extra`
@@ -1201,10 +1195,10 @@
 	- output0.txt `extra`
 	- output1.txt `extra`
 - CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2020/4. A hatalom elixíre    _-100/minta.zip
+	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-	- be1.txt `missing`
 	- grader.cpp `extra`
 	- potion.cpp `extra`
 - CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2020/5. Tavaszi nagytakarítás    _-100/minta.zip
@@ -1217,10 +1211,10 @@
 	- output0.txt `extra`
 	- output1.txt `extra`
 - CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2020/6. Sakkfutam    _-100/minta.zip
-	- ki2.txt `missing`
 	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
+	- ki2.txt `missing`
 	- arithmetics.cpp `extra`
 	- arithmetics.h `extra`
 	- input0.txt `extra`
