@@ -4,6 +4,7 @@
 	- ki2.txt `missing`
 - Kezdő/Elemi feladatok tömbökre/4. Erősen páratlan számok ✱    _-100/minta.zip
 	- feladat.docx `extra`
+- Kezdő/Elemi feladatok tömbökre/27. Világnaptár/task.zip `missing`
 - Kezdő/Programozási tételekː kiválogatás/3. Arányokban drága utazások ✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- k1.txt `extra`
@@ -22,7 +23,7 @@
 - Kezdő/Programozási tételekː sorozatszámítás/11. Összterület négyzetekkel ✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-- Középhaladó/Szülők/1. A legkvesebb gyerek ✱    _-100/minta.zip
+- Középhaladó/Szülők/1. A legekvesebb gyerek ✱    _-100/minta.zip
 	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
@@ -625,9 +626,6 @@
 - Középhaladó/Madármegfigyelés/22. Minimális madárfajszámú helység ✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-- Középhaladó/Madármegfigyelés/23. Ritka madárfaj ✱    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 - Középhaladó/Madármegfigyelés/24. Volt helység mindenféle madárral？ ✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -821,15 +819,6 @@
 - Haladó/Gráfok, körmentes gráfok/17. Szabadtéri állatkert ✱✱✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-- Haladó/Gráfok, körmentes gráfok/28. Építkezés ✱✱✱✱    _-99/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- in.1 `extra`
-	- in.2 `extra`
-	- out.1 `extra`
-	- out.2 `extra`
 - Haladó/Gráfok, bejárás `empty`
 - Haladó/Gráfok, szélességi bejárás/10. Bolha ✱✱    _-100/minta.zip
 	- ki1.txt `missing`
@@ -1046,6 +1035,14 @@
 - Haladó/Gráfok, legrövidebb utak/3. Futár ✱✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
+- Haladó/Gráfok, legrövidebb utak/5. Hálózat2 ✱✱    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- floyd.cpp `extra`
+	- in1.txt `extra`
+	- in2.txt `extra`
 - Haladó/Gráfok, legrövidebb utak/10. Repülőút ✱✱✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -1128,7 +1125,7 @@
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Kombinatorikai algoritmusok/27. Ügyességi verseny ✱✱/task.zip `missing`
-- Haladó/Kombinatorikai algoritmusok/29. Sorrend    _-100/minta.zip
+- Haladó/Kombinatorikai algoritmusok/29. Indulási sorrend    _-100/minta.zip
 	- ki2.txt `missing`
 - Haladó/Kombinatorikai algoritmusok/34. Csapatösszeállítás    _-100/minta.zip
 	- feladat.java `extra`
@@ -1172,8 +1169,38 @@
 	- feladat.java `extra`
 - NT, OKTV, IOI Válogató/Nemes Tihamér 2. 2016 ∕ 17 3. forduló/1. Banda    _-50/minta.zip
 	- feladat.java `extra`
-- NT, OKTV, IOI Válogató/OKTV 2016 ∕ 2017 3. forduló/1. Csapatösszeállítás    _-30/minta.zip
+- NT, OKTV, IOI Válogató/Nemes Tihamér 1. 2022 ∕ 23 3. forduló `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 2. 2022 ∕ 23 3. forduló `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 1. 2023 ∕ 24 3. forduló `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 1. 2024 ∕ 25 2. forduló/2. Díjazás/task.zip `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 1. 2024 ∕ 25 2. forduló/3. Két ajándék/task.zip `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 1. 2024 ∕ 25 2. forduló/4. Szerencsés számok/task.zip `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 2. 2024 ∕ 25 2. forduló/1. Sakktábla bábukkal/task.zip `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 2. 2024 ∕ 25 2. forduló/2. Munkák/task.zip `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 2. 2024 ∕ 25 2. forduló/3. Hírlánc    _-80/minta.zip
+	- be2.txt `missing`
+	- ki2.txt `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 2. 2024 ∕ 25 2. forduló/4. Díjazás több helyezettnek/task.pdf `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 1. 2024 ∕ 25 3. forduló/1. Járdakövezés/task.zip `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 1. 2024 ∕ 25 3. forduló/2. Ültetés/task.zip `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 1. 2024 ∕ 25 3. forduló/3. Vasúti rendezés/task.zip `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 1. 2024 ∕ 25 3. forduló/4. Fagyasztó/task.zip `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 2. 2024 ∕ 25 3. forduló/1. Kedves számok/task.zip `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 2. 2024 ∕ 25 3. forduló/2. Beszerzés/task.zip `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 2. 2024 ∕ 25 3. forduló/3. Megrendelések/task.zip `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 2. 2024 ∕ 25 3. forduló/4. Táblájáték/task.zip `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 2. 2024 ∕ 25 3. forduló/5. Bizonyítás/task.zip `missing`
+- NT, OKTV, IOI Válogató/Nemes Tihamér 2. 2024 ∕ 25 3. forduló/6. Bal-jobb játék/task.zip `missing`
+- NT, OKTV, IOI Válogató/OKTV 2016 ∕ 17 3. forduló/1. Csapatösszeállítás    _-30/minta.zip
 	- feladat.java `extra`
+- NT, OKTV, IOI Válogató/OKTV 2020 ∕ 21 3. forduló/4. Elfogás/task.zip `missing`
+- NT, OKTV, IOI Válogató/OKTV 2020 ∕ 21 3. forduló/6. Szállítás/task.zip `missing`
+- NT, OKTV, IOI Válogató/OKTV 2023 ∕ 24 2. forduló/5. Cseppkőbarlang (45 pont)    _-45/minta.zip
+	- minta/ `extra`
+	- minta/be1.txt `extra`
+	- minta/be2.txt `extra`
+	- minta/ki1.txt `extra`
+	- minta/ki2.txt `extra`
 - NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2017/14. Rajtszámok    _-100/minta.zip
 	- be1.txt `missing`
 	- be2.txt `missing`
@@ -1291,163 +1318,34 @@
 	- in.2 `extra`
 	- out.1 `extra`
 	- out.2 `extra`
-- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/12. Építkezés ✱✱✱✱    _-99/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- in.1 `extra`
-	- in.2 `extra`
-	- out.1 `extra`
-	- out.2 `extra`
-- NT, OKTV, IOI Válogató/EGOI Válogató 2021/5. Zászló    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- zaszlo.cpp `extra`
-	- zaszlo.h `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2005/2. Elektromos kerítés    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- lookup.cpp `extra`
-	- lookup.h `extra`
-	- testgener.exe `extra`
-	- testgener.pas `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2012/1. Feladatütemezés    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- in1.txt `extra`
-	- in2.txt `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2012/2. Vitorlásverseny    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- in1.txt `extra`
-	- in2.txt `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2012/3. Nyomtatott áramkör    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- in1.txt `extra`
-	- in2.txt `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2012/4. Autópálya tervezés    _-25/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- office.cpp `extra`
-	- office.h `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2012/5. Hulladék-újrahasznosítás    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- in1.txt `extra`
-	- in2.txt `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2012/6. Kommunikációs hálózat    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- in1.txt `extra`
-	- in2.txt `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2015 `missing`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2016/1. Kenguru    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- minta/ `extra`
-	- minta/be1.txt `extra`
-	- minta/be2.txt `extra`
-	- minta/ki1.txt `extra`
-	- minta/ki2.txt `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2016/2. Programozóverseny/task.zip `missing`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2017/1. Hídépítés    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- minta/ `extra`
-	- minta/Be1.txt `extra`
-	- minta/Be2.txt `extra`
-	- minta/Ki1.txt `extra`
-	- minta/Ki2.txt `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2017/2. Hajsza    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- minta/ `extra`
-	- minta/Be1.txt `extra`
-	- minta/Be2.txt `extra`
-	- minta/Ki1.txt `extra`
-	- minta/Ki2.txt `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2017/3. Tükrös felosztások    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- minta/ `extra`
-	- minta/be1.txt `extra`
-	- minta/be2.txt `extra`
-	- minta/ki1.txt `extra`
-	- minta/ki2.txt `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2020/1. Kacifántos kerítés    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- input0.txt `extra`
-	- input1.txt `extra`
-	- output0.txt `extra`
-	- output1.txt `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2020/2. Utak    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- input0.txt `extra`
-	- input1.txt `extra`
-	- output0.txt `extra`
-	- output1.txt `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2020/3. Star Trek    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- input0.txt `extra`
-	- input1.txt `extra`
-	- output0.txt `extra`
-	- output1.txt `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2020/4. A hatalom elixíre    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2022/11. Egyengető ✱✱✱✱    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 	- grader.cpp `extra`
-	- potion.cpp `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2020/5. Tavaszi nagytakarítás    _-100/minta.zip
+	- grader.h `extra`
+	- megoldas.pdf `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2022/16. Majomház    _-100/minta.zip
+	- megoldas.txt `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2023/7. Labirintus    _-37/minta.zip
+	- labirintus.cpp `extra`
+	- labirintus.h `extra`
+	- main.cpp `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2023/8. Széfnyitás    _-39/minta.zip
 	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
 	- ki2.txt `missing`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2024/1. Következő összeg    _-36/minta.zip
 	- input0.txt `extra`
 	- input1.txt `extra`
 	- output0.txt `extra`
 	- output1.txt `extra`
-- CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2020/6. Sakkfutam    _-100/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- arithmetics.cpp `extra`
-	- arithmetics.h `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2024/2. Főnökszám    _-38/minta.zip
+	- input0.txt `extra`
+	- input1.txt `extra`
+	- output0.txt `extra`
+	- output1.txt `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2024/3. Útvonalak    _-54/minta.zip
 	- input0.txt `extra`
 	- input1.txt `extra`
 	- output0.txt `extra`
